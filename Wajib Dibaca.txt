@@ -1,0 +1,12 @@
+* Untuk menjalankan Aplikasi Toko DISTRO ini :
+  1. Upload database distro.sql
+  2. extract file distro, lalu simpan hasil extract di xampp->htdocs
+  3. buka browser lalu ketik localhost/distro/public
+
+--------------------------------------------------------------------
+
+* Untuk menjalankan Aplikasi POS DISTRO nya :
+  1. extract file pos, lalu simpan hasil extract di xampp->htdocs
+  2. buka cmd, lalu masuk ke folder pos yang ada didalam htdocs
+  3. setelah masuk ke foldernya lalu ketik -> php artisan serve
+  4. setelah itu buka browser lalu ketik localhost:8000
